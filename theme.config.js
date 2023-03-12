@@ -3,7 +3,7 @@ const YEAR = new Date().getFullYear()
 export default {
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
-      <time>{2021}</time> © amaninsync.
+      <time>{2023}</time> © amaninsync.
       <a href="/feed.xml"></a>
       <style jsx>{`
         a {
